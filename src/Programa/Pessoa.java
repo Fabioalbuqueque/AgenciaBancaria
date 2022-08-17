@@ -13,7 +13,9 @@ public class Pessoa {
     private String email;
     private Date accountCreationDate;
 
-    public Pessoa() { }
+    public Pessoa() {
+
+    }
 
     public Pessoa(String name, String cpf, String email) {
         this.numeroPessoa = Pessoa.counter;

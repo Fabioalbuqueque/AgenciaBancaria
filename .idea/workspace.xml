@@ -21,6 +21,17 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Luan Fabio de Albuquerque &lt;albuquerquefabio833@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -32,14 +43,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Utilitarios" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="AgenciaBancaria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="AgenciaBancaria" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Programa.AgenciaBancaria" />
       <module name="AgenciaBancaria" />
       <extension name="coverage">
@@ -52,11 +68,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.AgenciaBancaria" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -66,6 +77,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660697811772</updated>
+      <workItem from="1660832016511" duration="194000" />
+      <workItem from="1660841495577" duration="1779000" />
+      <workItem from="1660918682900" duration="4773000" />
+      <workItem from="1660936053085" duration="1880000" />
+      <workItem from="1660938972670" duration="139000" />
+      <workItem from="1661168401709" duration="297000" />
+      <workItem from="1661778741384" duration="7653000" />
     </task>
     <task id="LOCAL-00001" summary="projeto em java (Agencia Bancaria)">
       <created>1660701705906</created>
@@ -109,8 +127,46 @@
       <option name="project" value="LOCAL" />
       <updated>1660704897532</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Projeto em java (Agencia Bancaria)">
+      <created>1660707937082</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1660707937082</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Projeto em java (Agencia Bancaria)">
+      <created>1661791606280</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1661791606280</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Projeto em java (Agencia Bancaria)">
+      <created>1661791644435</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661791644435</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Projeto em java (Agencia Bancaria)">
+      <created>1661791745505</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1661791745505</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Projeto em java (Agencia Bancaria)">
+      <created>1661791838258</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661791838258</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -143,10 +199,17 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="projeto em java (Agencia Bancaria)" />
     <MESSAGE value="Projeto em java (Agencia Bancaria)" />
     <option name="LAST_COMMIT_MESSAGE" value="Projeto em java (Agencia Bancaria)" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AgenciaBancaria$AgenciaBancaria.ic" NAME="AgenciaBancaria Coverage Results" MODIFIED="1660707894813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Programa.*</FILTER>
+    </SUITE>
   </component>
 </project>
